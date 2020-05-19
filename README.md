@@ -1,3 +1,3 @@
 # Hello-Johadok
-Just exploring te world of programming.
-I am Electrical Engineer exploring the field of software development with keen interest in game development & IoT.
+Just exploring the world of programming.
+I am Electrical Engineer exploring the field of software development and AI with keen interest in game development & IoT.
